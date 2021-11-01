@@ -1,0 +1,3 @@
+In recent years, results from generative models have substantially improved due to the introduction of Generative Adversarial Networks (GANs). GANs train two networks simultaneously: a generative network that captures the data distribution, and a discriminative network that estimates whether a sample came from the generator or from the training data. This paper applies two different GANs to two different data sets: the classic fashion-MNIST data set, containing grayscale images of fashion items, and a data set containing full-colour images of flowers. We explain the importance and power of GANs, their limitations, and elaborate on the optimal structure for the models.
+
+Authors: Marije Sluikes (Leiden University), Maxime Casara (Leiden University).
